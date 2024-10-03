@@ -7,5 +7,3 @@ username : admin
 password : admin1234
 
 Run that project.
-
-localhost/Myhotel
